@@ -11,6 +11,7 @@ Sources
 - [The Declaration of Human and Civic Rights of 1789](https://www.conseil-constitutionnel.fr/sites/default/files/as/root/bank_mm/anglais/cst2.pdf)
 - [The Universal Declaration of Human Rights of 1948](https://www.ohchr.org/en/human-rights/universal-declaration/translations/english)
 - [The Global Digital Rights Charter](https://digitalrightscharter.org/) - A very "digital world" approach, which we took some ideas from.
+
 --
 
 La [Démocratie Numérique](https://democratie-numerique.org/) requiert la réécriture des textes fondateurs.

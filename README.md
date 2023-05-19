@@ -7,6 +7,10 @@ Three texts must be rewritten and translated:
 - The Universal Constitution: it includes the Universal Declaration in its preamble, specifies some of these points and develops other subjects, always with the aim of universality in concepts and values.
 - The National Constitutions: they allow the Software Democracy to be adapted to different cultures.
 
+Sources
+- [The Declaration of Human and Civic Rights of 1789](https://www.conseil-constitutionnel.fr/sites/default/files/as/root/bank_mm/anglais/cst2.pdf)
+- [The Universal Declaration of Human Rights of 1948](https://www.ohchr.org/en/human-rights/universal-declaration/translations/english)
+- [The Global Digital Rights Charter](https://digitalrightscharter.org/) - A very "digital world" approach, which we took some ideas from.
 --
 
 La [Démocratie Numérique](https://democratie-numerique.org/) requiert la réécriture des textes fondateurs.
